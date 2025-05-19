@@ -3,7 +3,7 @@ class Titre extends Component
 {
     render()
     {
-        return ( <h1>bonjour</h1>)
+        return ( <h1>bienvenue</h1>)
     }
 }
 export default Titre
